@@ -1,0 +1,12 @@
+﻿TASK 1
+1.           It helps to store all the transactions in an array. No. It can be modified by increasing the number of transactions.
+2.           The minus sign.
+ 
+ 
+TASK 2
+ 
+1.           UpdateBalance()
+-Because it is private
+-No. You should not add a Javadoc comment to a private command.
+ 
+2.           If the method is void.

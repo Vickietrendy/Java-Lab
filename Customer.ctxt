@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ represents\ a\ customer\r\n\ \r\n
+comment1.params=firstName\ lastName
+comment1.target=Customer(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Customer\r\n\ \r\n\ @param\ firstName\ \ the\ first\ name\r\n\ @param\ lastName\ \ \ the\ last\ name\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment2.text=\r\n\ returns\ the\ first\ name\r\n\ \r\n\ @return\ the\ first\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment3.text=\r\n\ returns\ the\ last\ name\r\n\ \r\n\ @return\ the\ last\ name\r\n
+numComments=4
